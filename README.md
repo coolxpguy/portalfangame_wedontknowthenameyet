@@ -10,4 +10,6 @@ This is not made in Source. If I wanted to build it in Source I would have just 
 
 Do not be mistaken. As I said above, this is NOT a Source 2010 or Source 2009.9, or Source 2009.8, or Source 2001.3924502359235824959353495934, or Source 2004 game. It is built in Unity.
 
+This will also not get a Steam release.
+
 
